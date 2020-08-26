@@ -1,0 +1,17 @@
+{
+    "ID": "1624019",
+    "eventCreationTime": "2020-06-06 00:01:05.000",
+    "addressId": "764",
+    "eventTypeId": "1",
+    "stateId": "18",
+    "divisionId": "0",
+    "operatorId": null,
+    "eventInsertTime": "2020-06-06 00:01:14.947",
+    "authGroupId": "1",
+    "AddressTag": "AccessEngine.Devices.MAC.Event",
+    "eventTypeName": "state change",
+    "stateNumber": "4013",
+    "stateName": "MAC Day changeover",
+    "operatorName": null,
+    "detectorTypeName": "MAC"
+}
